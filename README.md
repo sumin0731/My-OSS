@@ -6,8 +6,8 @@
 
 
 ## 깃과 깃허브
-- 깃
-- 깃허브
+- 깃 (Git)
+- 깃허브 (Github)
 
 ## CHEAT SHEET
 - Git Cheat Sheet
