@@ -305,3 +305,19 @@ ___hello world___
 ![키리미짱](https://i.namu.wiki/i/miwxKUMq4o6pJjr8Z4VjHblmadsLJcIJPhpliFKg3JO71eRto8jms-f2spNH2_XeyKYs362y52htMHA8oL9kiwZZ1tN8qQvOFXGjkmqnUKXBhLW8hiuE7YBPRAjXxyFAGQLCZaVzDgrfJLaJAwP4tw.webp "kirimi")
 
 사이즈 조절 기능은 없기 때문에 ```<img width="" height=""></img>```를 이용한다.
+
+## 2.9. 줄바꿈
+3칸 이상 띄어쓰기(` `)를 하면 줄이 바뀐다.
+
+```
+* 줄 바꿈을 하기 위해서는 문장 마지막에서 3칸이상을 띄어쓰기해야 한다. 
+이렇게
+
+* 줄 바꿈을 하기 위해서는 문장 마지막에서 3칸이상을 띄어쓰기해야 한다.___\\ 띄어쓰기
+이렇게
+```
+
+* 줄 바꿈을 하기 위해서는 문장 마지막에서 3칸이상을 띄어쓰기해야 한다. 이렇게
+
+* 줄 바꿈을 하기 위해서는 문장 마지막에서 3칸이상을 띄어쓰기해야 한다.    \
+이렇게
