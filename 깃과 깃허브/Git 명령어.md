@@ -16,9 +16,9 @@
      - `git config --global user.name "Your Name"`: 사용자 이름 설정
      - `git config --global user.email "Your email"`: 사용자 이메일 설정
      - `git config --global core.autocrlf true`: Windows에서 줄 바꿈 처리를 자동으로 설정
-     - `git config --global core.safecrlf false` 줄 바꿈 처리 안전 설정(뉴라인 경고 발생 없앰)
-     - `git config --global core.editor "편집기명"` 기본 편집기 설정
-     - `git config --global init.defaultBranch main` 기본 브랜치 이름 main으로 설정
+     - `git config --global core.safecrlf false`: 줄 바꿈 처리 안전 설정(뉴라인 경고 발생 없앰)
+     - `git config --global core.editor "편집기명"`: 기본 편집기 설정
+     - `git config --global init.defaultBranch main`: 기본 브랜치 이름 main으로 설정
      - `git config --global alias.별칭 '이름'`: 별칭 설정
         
 >## _변경 내용 확인_
