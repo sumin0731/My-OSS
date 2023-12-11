@@ -1,7 +1,7 @@
 <div align="center">
   
 # My-OSS
-오픈소스소프트웨어(OSS) 학습 내용 정리
+*오픈소스소프트웨어(OSS) 학습 내용 정리*
 
 </div>
 
