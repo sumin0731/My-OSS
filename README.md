@@ -18,8 +18,6 @@
 ## MarkDown
 - [MarkDown](MarkDown.md)
 
-## 명령어
-
 
 ## CHEAT SHEET
 - Git Cheat Sheet
