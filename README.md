@@ -20,5 +20,6 @@
 
 
 ## CHEAT SHEET
-- Git Cheat Sheet
-- GitHub Cheat Sheet
+- [Git Cheat Sheet](https://github.com/sumin0731/My-OSS/blob/main/CHEAT%20SHEET/Git%20Cheat%20Sheet.pdf)
+  
+- [GitHub Cheat Sheet](https://github.com/sumin0731/My-OSS/blob/main/CHEAT%20SHEET/GitHub%20Cheat%20Sheet.pdf)
