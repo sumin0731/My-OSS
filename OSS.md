@@ -88,7 +88,7 @@
 >일부 오픈 소스 프로젝트는 전문적인 기업 지원이 부족할 수 있어 사용자들이 자체로 문제를 해결해야 하는 경우가 있다.
 >
 >- `사용자 인터페이스의 일관성 부족`   
->여러 개발자가 참여하기 때문에 사용자 인터페이스가 일관성을 갖지 못할 수 있습니다.
+>여러 개발자가 참여하기 때문에 사용자 인터페이스가 일관성을 갖지 못할 수 있다.
 >
 >- `선택 폭증과 복잡성`   
 >다양한 오픈 소스 옵션이 존재하므로 사용자는 적절한 솔루션을 선택하기 위해 자세한 비교와 평가를 해야 할 수 있다.
@@ -111,6 +111,6 @@
 | 웹 브라우저       | Mozilla Firefox                                  |
 | 오피스 스위트      | LibreOffice                                     |
 | 그래픽 디자인 및 편집 | GIMP, Inkscape                                |
-| 프로그래밍 및 개발 도구 | Python, Ruby, PHP, Eclipse, Visual Studio Code |
+| 프로그래밍 및 개발 도구 | Python, Scikit-learn, Tensorflow, Pytorch, <br> Ruby, PHP, Eclipse, Visual Studio Code |
 | 가상화 및 컨테이너 | Docker, Kubernetes                              |
 
