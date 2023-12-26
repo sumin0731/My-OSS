@@ -10,6 +10,11 @@
 ## OSS
 - [오픈소스와 오픈소스소프트웨어](OSS.md)
 
+
+## 버전 관리
+- [버전관리와 버전관리시스템](https://github.com/sumin0731/My-OSS/blob/main/%EB%B2%84%EC%A0%84%20%EA%B4%80%EB%A6%AC.md)
+
+
 ## 깃과 깃허브
 - [깃 (Git)](https://github.com/sumin0731/My-OSS/blob/main/%EA%B9%83%EA%B3%BC%20%EA%B9%83%ED%97%88%EB%B8%8C/%EA%B9%83%20(Git).md)
   
